@@ -1,0 +1,259 @@
+
+#  ▄███████████████                   ▄▄▄████████▒░      ▄▄▄
+# ████████████████████▒░      ██████████████████▒░   ▄█████████▄
+# ░▒▒▒▒▒█████▒▒▒▒▒███▒░        ▒███████████▒▒▒▒▒░  ▄█████████████▄
+#      █████████░░▒▒▒░███░   ███▒░▒▒▒▒█████▒░░░░  ██████▀   ▀██████░
+#     ████████▒▒░ ░░░ ███▒░  ███▒ ░░░░█████▒░    ██████       ██████▒
+#    ▄███▒▒▒▒▒░░     ███▒░  ███▒░     █████▒░    ░██████▄   ▄██████▒░
+#    ███▒░░░░░      ▐████▄▄███▒░      ░█████▒░    ░▒█████████████▒▒░
+#    ██▒░            ▐███████▒░        ░▒██▒░      ░░▒█████████▒▒░
+#    ░▒░              ▒▒▒▒▒▒▒░          ░▒▒░         ░░▒▒▒▒▒▒▒░░░
+#     ░               ░░░░░░░            ░░            ░░░░░░░
+#          ▄██████▄░ ▄██████▄░ ▄██████▄░ ▄██████▄░ ▄██████▄░
+#          ████████▒░████████▒░████████▒░████████▒░████████▒░
+#          ▀██████▀░ ▀██████▀░ ▀██████▀░ ▀██████▀░ ▀██████▀░
+#           ░▒▒▒▒▒░   ░▒▒▒▒▒░   ░▒▒▒▒▒░   ░▒▒▒▒▒░   ░▒▒▒▒▒░
+#          ▄██████▄░ ▄██████▄░ ▄██████▄░ ▄██████▄░ ▄██████▄░
+#          ████████▒░████████▒░████████▒░████████▒░████████▒░
+#          ▀██████▀░ ▀██████▀░ ▀██████▀░ ▀██████▀░ ▀██████▀░
+#           ░▒▒▒▒▒░   ░▒▒▒▒▒░   ░▒▒▒▒▒░   ░▒▒▒▒▒░   ░▒▒▒▒▒░
+#            ░░░░░  ▄█████████████████████████████▄░ ░░░░░
+#                   ███████████████████████████████▒░
+#                   ▀█████████████████████████████▀░
+#                    ░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░
+#                     ░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+#
+#                  FUTO Keyboard Theme Configuration
+#                        Format version: 1.0
+#
+# Although there are comments to help you, please check our guide for
+# more information. It can be found at:
+#                      https://docs.keyboard.futo.tech/theme/advanced
+#
+# If blindly editing configuration files isn't your thing, there is a
+# much easier way which is our theme editor web app. You can see live
+# realtime previews of the keyboard with different sizes or languages
+# as well as an easy editing interface. Try it out at:
+#                             https://keyboard.futo.tech/theme-editor
+#
+# Have fun theming!
+# -------------------------------------------------------------------
+
+name = "Glassy Burgundy"
+author = "github.com/tdbe"
+id = "futo.glassy.burgundy.tdbe"
+version = 25
+description = "Futo keyboard but with IOS style underlined key borders, and a blurry background."
+
+[options]
+auto_borders = true
+center_hints = false
+roundedness = 0.5
+scale_text = 1
+scale_hints = 1
+weight_text = 400
+weight_hints = 400
+
+# -------------------------------------------------------------------
+# There are many colors here, so it'll likely be difficult for you to
+# edit them by hand. We would recommend you to use a Material 3 color
+# generator or our theme editor linked above. Color format: #RRGGBBAA
+# If you change a color, remove its "# inherited" comment if present.
+# -------------------------------------------------------------------
+
+[colors]
+primary = "#6f3744"
+on_primary = "#ffd9df" # inherited
+primary_container = "#55212d"
+on_primary_container = "#ffd9de" # inherited
+inverse_primary = "#a1606f"
+
+secondary = "#eabadfe6"
+on_secondary = "#462542e6" # inherited
+secondary_container = "#5f3b59e6" # inherited
+on_secondary_container = "#ffd7f4e6" # inherited
+
+tertiary = "#bcc3ebe8"
+on_tertiary = "#272f4fe8" # inherited
+tertiary_container = "#3e4566e8" # inherited
+on_tertiary_container = "#dde1ffe8" # inherited
+
+background = "#1d1012" # inherited
+on_background = "#f6dcdf" # inherited
+
+surface = "#1d1012" # inherited
+on_surface = "#ffc6cb"
+surface_variant = "#5a4041" # inherited
+on_surface_variant = "#ffc8c8"
+surface_tint = "#e2859b"
+inverse_surface = "#f6dcdf" # inherited
+inverse_on_surface = "#3c2c2e" # inherited
+
+error = "#eea89c"
+on_error = "#50231c" # inherited
+error_container = "#6b3930" # inherited
+on_error_container = "#ffdad4" # inherited
+
+outline = "#a18b8ecc" # inherited
+outline_variant = "#864252"
+scrim = "#000000" # inherited
+
+surface_bright = "#453537" # inherited
+surface_dim = "#1d1012" # inherited
+surface_container = "#2a1c1e" # inherited
+surface_container_high = "#352628" # inherited
+surface_container_highest = "#413133" # inherited
+surface_container_low = "#26181a" # inherited
+surface_container_lowest = "#170b0d" # inherited
+
+keyboard_surface = "#37272a"
+keyboard_surface_dim = "#170b0d" # inherited
+keyboard_container = "#822d3f"
+keyboard_container_variant = "#732134" # inherited
+on_keyboard_container = "#ffd9dd" # inherited
+keyboard_press = "#6a3543"
+keyboard_container_pressed = "#a18b8e54" # inherited
+on_keyboard_container_pressed = "#a18b8e00" # inherited
+
+[options.background]
+image = "Futo Keyboard Background 07 - blurred.jpg"
+opacity = 0.65
+action_bar_opacity = 0.5
+cropping = [0, 0, 1, 1]
+
+# -------------------------------------------------------------------
+# Matchrules will apply a key border or icon to a group of keys based
+# on the selector.  They are order-dependent, only the first matching
+# rule will be applied.
+# -------------------------------------------------------------------
+
+[[matchrules.border]]
+selector = "pressed action col -1"
+asset = "pressed key round.png"
+
+[[matchrules.border]]
+selector = "action col -1"
+asset = "white key round.png"
+
+[[matchrules.border]]
+selector = "pressed functional row 0 col 0"
+asset = "Button-default-press-dark.png"
+
+[[matchrules.border]]
+selector = "pressed label 3"
+asset = "Button-default-press.png"
+
+[[matchrules.border]]
+selector = "pressed col 3 row 0"
+asset = "Button-default-press-dark.png"
+
+[[matchrules.border]]
+selector = "pressed col 1 row 2"
+asset = "Button-default-press.png"
+
+[[matchrules.border]]
+selector = "pressed col 0 row 0"
+asset = "Button-default-press.png"
+
+[[matchrules.border]]
+selector = "normal pressed row 3 col 3"
+asset = "Button-default-press.png"
+
+[[matchrules.border]]
+selector = "functional pressed"
+asset = "Button-default-press-dark.png"
+
+[[matchrules.border]]
+selector = "spacebar pressed"
+asset = "Button-space-press.png"
+
+[[matchrules.border]]
+selector = "spacebar"
+asset = "Button-default.png"
+
+[[matchrules.border]]
+selector = "functional popup"
+asset = "Button-default-press-dark.png"
+
+[[matchrules.border]]
+selector = "functional"
+asset = "Button-default.png"
+
+[[matchrules.border]]
+selector = "normal popup"
+asset = "Button-default.png"
+
+[[matchrules.border]]
+selector = "pressed"
+asset = "Button-default-press.png"
+
+[[matchrules.border]]
+selector = "normal"
+asset = "Button-default-dark.png"
+
+# -------------------------------------------------------------------
+# All image assets used above should have a corresponding config here
+# -------------------------------------------------------------------
+
+[[asset.border]]
+name = "Button-default-press-dark.png"
+background_tint = "keyboard_container"
+foreground_tint = "on_keyboard_container"
+padding = [0, 0.025, 0.075, 0]
+slicing = [0.217, 0.522, 0.783, 0.78]
+gap = [0.5, 0.5, 0.5, 0.5]
+target_density = 640
+
+[[asset.border]]
+name = "Button-default-press.png"
+background_tint = "keyboard_container"
+foreground_tint = "on_keyboard_container"
+padding = [0, 0.025, 0.075, 0]
+slicing = [0.217, 0.522, 0.783, 0.78]
+gap = [0.5, 0.5, 0.5, 0.5]
+target_density = 640
+
+[[asset.border]]
+name = "Button-space-press.png"
+background_tint = "keyboard_container"
+foreground_tint = "on_keyboard_container"
+padding = [0, 0.025, 0.075, 0]
+slicing = [0.217, 0.522, 0.783, 0.78]
+gap = [0.5, 0.5, 0.5, 0.5]
+target_density = 640
+
+[[asset.border]]
+name = "Button-default-dark.png"
+background_tint = "keyboard_container"
+foreground_tint = "on_keyboard_container"
+padding = [0, 0.025, 0.075, 0]
+slicing = [0.217, 0.522, 0.783, 0.78]
+gap = [0.5, 0.5, 0.5, 0.5]
+target_density = 640
+
+[[asset.border]]
+name = "Button-default.png"
+background_tint = "keyboard_container"
+foreground_tint = "on_keyboard_container"
+padding = [0, 0.025, 0.075, 0]
+slicing = [0.217, 0.522, 0.783, 0.78]
+gap = [0.5, 0.5, 0.5, 0.5]
+target_density = 640
+
+[[asset.border]]
+name = "pressed key round.png"
+background_tint = "keyboard_container"
+foreground_tint = "on_keyboard_container"
+padding = [0, 0.025, 0.075, 0]
+slicing = [0.01, 0.01, 0.99, 0.99]
+gap = [1, 1, 1, 1]
+target_density = 640
+
+[[asset.border]]
+name = "white key round.png"
+background_tint = "#ffdde4cd"
+foreground_tint = "#000000"
+padding = [0, 0.025, 0.075, 0]
+slicing = [0, 0, 1, 1]
+gap = [1, 1, 1, 1]
+target_density = 640
