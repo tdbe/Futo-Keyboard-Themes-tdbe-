@@ -4,12 +4,12 @@ FUTO Keyboard theme(s) with important visuals not covered by their themes galler
 How to use: Download the theme folder (as a zip) and browse for it from your phone's FUTO Keyboard.
 
 <img width="3177" height="2425" alt="Glassy Burgundy v25 preview" src="https://github.com/user-attachments/assets/8019c4f4-dafe-405a-a7c5-029bef25aaa4" />
-
+⠀
 FUTO Keyboard is the only properly configurable open source keyboard with true multilingual typing and also multilingual voice recognition dictation input, running only locally on your device.
 
 I created this using their online [editor](https://keyboard.futo.tech/theme-editor/), because their [site](https://keyboard.futo.tech/themes) or [app](https://keyboard.futo.tech/#download) didn't give sexy or "ergonomic" enuogh themes.
 
-The figma tool is simultaneously great and frustratingly limited. At the time (2026-08) it:
+The figma style editor tool is simultaneously great and frustratingly limited. At the time (2026-08) it:
 - doesn't start with a full featured example e.g. including button textures.
 - doesn't preview everything such as the actions panel or FUTO's very own dialog window you use to browse for a theme file which seems to have very faint auto generated font colors.
 - doesn't help you select or view all the places where a resource e.g. a texture is used. I'd expect a birds eye view or a keyboard view where I can select a texture/item and/or get all the references highlighted. 
