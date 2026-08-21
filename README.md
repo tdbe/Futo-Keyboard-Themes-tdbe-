@@ -5,6 +5,7 @@ How to use: Download the theme folder (as a zip) and browse for it from your pho
 
 <img width="3177" height="2425" alt="Glassy Burgundy v25 preview" src="https://github.com/user-attachments/assets/8019c4f4-dafe-405a-a7c5-029bef25aaa4" />
 ⠀
+
 FUTO Keyboard is the only properly configurable open source keyboard with true multilingual typing and also multilingual voice recognition dictation input, running only locally on your device.
 
 I created this using their online [editor](https://keyboard.futo.tech/theme-editor/), because their [site](https://keyboard.futo.tech/themes) or [app](https://keyboard.futo.tech/#download) didn't give sexy or "ergonomic" enuogh themes.
