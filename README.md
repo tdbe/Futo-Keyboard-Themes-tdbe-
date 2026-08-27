@@ -9,8 +9,9 @@ FUTO Keyboard theme(s) with pretty and important visuals not covered by their th
 How to use: Download the theme folder (as a zip) and browse for it from your phone's FUTO Keyboard.
 
 Preview:
+⠀
 99:
-<img width="3177" height="2425" alt="Glassy Burgundy v99 preview" src="https://github.com/user-attachments/assets/935c3fc4-75fb-4e31-9eb0-5c509d9d782b" />
+<img width="1572" height="1200" alt="Glassy Burgundy v99 preview" src="https://github.com/user-attachments/assets/54c1e585-724b-4bd5-a274-1649200bd81d" />
 ⠀
 49:
 <img width="3177" height="2425" alt="Glassy Burgundy v49 preview" src="https://github.com/user-attachments/assets/23d73400-f507-4da4-8303-b2c562b1ad6a" />
