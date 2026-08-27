@@ -11,7 +11,7 @@ How to use: Download the theme folder (as a zip) and browse for it from your pho
 Preview:
 ⠀
 99:
-<img width="1572" height="1200" alt="Glassy Burgundy v99 preview" src="https://github.com/user-attachments/assets/54c1e585-724b-4bd5-a274-1649200bd81d" />
+<img width="1572" height="1200" alt="Glassy Burgundy v99 preview" src="https://github.com/user-attachments/assets/b6d97b92-278d-429f-9656-2908a4b0e9ea" />
 ⠀
 49:
 <img width="3177" height="2425" alt="Glassy Burgundy v49 preview" src="https://github.com/user-attachments/assets/23d73400-f507-4da4-8303-b2c562b1ad6a" />
