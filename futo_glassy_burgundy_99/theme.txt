@@ -78,48 +78,48 @@ on_tertiary = "#282e50e8" # inherited
 tertiary_container = "#3e4568e8" # inherited
 on_tertiary_container = "#dde1ffe8" # inherited
 
-background = "#161213" # inherited
-on_background = "#eae0e1" # inherited
+background = "#30000c" # inherited
+on_background = "#ffd9dd" # inherited
 
-surface = "#161213" # inherited
+surface = "#30000c" # inherited
 on_surface = "#ffc6cb"
-surface_variant = "#504445" # inherited
+surface_variant = "#782f32" # inherited
 on_surface_variant = "#ffc8c8"
 surface_tint = "#6f3744" # inherited
-inverse_surface = "#eae0e1" # inherited
-inverse_on_surface = "#342f30" # inherited
+inverse_surface = "#ffd9dd" # inherited
+inverse_on_surface = "#571b28" # inherited
 
 error = "#eea89c"
 on_error = "#50231c" # inherited
 error_container = "#6b3930" # inherited
 on_error_container = "#ffdad4" # inherited
 
-outline = "#968f90cc" # inherited
+outline = "#cb7985cc" # inherited
 outline_variant = "#864252"
 scrim = "#000000" # inherited
 
-surface_bright = "#3d3839" # inherited
-surface_dim = "#161213" # inherited
-surface_container = "#231e1f" # inherited
-surface_container_high = "#2e2829" # inherited
-surface_container_highest = "#393334" # inherited
-surface_container_low = "#1f1a1b" # inherited
-surface_container_lowest = "#110d0e" # inherited
+surface_bright = "#622430" # inherited
+surface_dim = "#30000c" # inherited
+surface_container = "#410a18" # inherited
+surface_container_high = "#4f1522" # inherited
+surface_container_highest = "#5d202c" # inherited
+surface_container_low = "#3c0614" # inherited
+surface_container_lowest = "#270008" # inherited
 
-keyboard_surface = "#423d3d"
-keyboard_surface_dim = "#110d0e" # inherited
-keyboard_container = "#55323a"
-keyboard_container_variant = "#48272f" # inherited
+keyboard_surface = "#4d0f1e"
+keyboard_surface_dim = "#270008" # inherited
+keyboard_container = "#532a34"
+keyboard_container_variant = "#461f29" # inherited
 on_keyboard_container = "#ffdee3"
 keyboard_press = "#5a323bf8"
-keyboard_container_pressed = "#968f9054" # inherited
-on_keyboard_container_pressed = "#968f9000" # inherited
+keyboard_container_pressed = "#cb798554" # inherited
+on_keyboard_container_pressed = "#cb798500" # inherited
 
 [options.background]
 image = "Futo Keyboard Background 07 - blurred.jpg"
-opacity = 0.8
-action_bar_opacity = 0.45
-cropping = [0, 0, 1, 1]
+opacity = 1
+action_bar_opacity = 0.3
+cropping = [0, 0, 0.98, 1]
 
 # -------------------------------------------------------------------
 # Matchrules will apply a key border or icon to a group of keys based
@@ -197,7 +197,7 @@ asset = "Button-default-dark.png"
 
 [[asset.border]]
 name = "Button-default-press-dark.png"
-background_tint = "#ffd1d1"
+background_tint = "#3c0707"
 foreground_tint = "#eedfe3"
 padding = [0, 0.025, 0.045, 0]
 slicing = [0.38, 0.38, 0.62, 0.62]
@@ -206,7 +206,7 @@ target_density = 640
 
 [[asset.border]]
 name = "Button-default-press.png"
-background_tint = "#bdffed"
+background_tint = "#0d5341"
 foreground_tint = "#eedfe3"
 padding = [0, 0.025, 0.045, 0]
 slicing = [0.43, 0.33, 0.57, 0.67]
@@ -215,7 +215,7 @@ target_density = 640
 
 [[asset.border]]
 name = "Button-space-press.png"
-background_tint = "#ffd0d0"
+background_tint = "#711414"
 foreground_tint = "#eedfe3"
 padding = [0, 0.025, 0.045, 0]
 slicing = [0.43, 0.33, 0.57, 0.67]
@@ -224,7 +224,7 @@ target_density = 640
 
 [[asset.border]]
 name = "Button-default-dark.png"
-background_tint = "#bcffed"
+background_tint = "#0d5341"
 foreground_tint = "#eedfe3"
 padding = [0, 0.025, 0.045, 0]
 slicing = [0.43, 0.33, 0.57, 0.67]
@@ -233,7 +233,7 @@ target_density = 640
 
 [[asset.border]]
 name = "Button-default.png"
-background_tint = "#ffd0d0"
+background_tint = "#711414"
 foreground_tint = "#ecd7dd"
 padding = [0, 0.025, 0.045, 0]
 slicing = [0.43, 0.33, 0.57, 0.67]
@@ -242,7 +242,7 @@ target_density = 640
 
 [[asset.border]]
 name = "pressed key round.png"
-background_tint = "#794b54ae"
+background_tint = "#4f2a3699"
 foreground_tint = "#ffffff"
 padding = [0, 0.025, 0.025, 0]
 slicing = [0.495, 0.495, 0.505, 0.505]
