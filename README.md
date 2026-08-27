@@ -1,9 +1,22 @@
 # FUTO Keyboard Themes (tdbe)
-FUTO Keyboard theme(s) with important visuals not covered by their themes gallery, such as iOS style underlined or outlined key borders, and background gradients.
+FUTO Keyboard theme(s) with pretty and important visuals not covered by their themes gallery.
+
+- glassy gradients
+- larger font weight for hints
+- clearer key boundaries and iOS-style smaller keys that help avoid mistyping
+- disabled key press feedback for letters and spacebar (to help protect from snooping eyes and cameras) (there are still long press popups)
 
 How to use: Download the theme folder (as a zip) and browse for it from your phone's FUTO Keyboard.
 
 Preview:
+⠀
+99:
+<img width="1572" height="1200" alt="Glassy Burgundy v99 preview" src="https://github.com/user-attachments/assets/b6d97b92-278d-429f-9656-2908a4b0e9ea" />
+⠀
+49:
+<img width="3177" height="2425" alt="Glassy Burgundy v49 preview" src="https://github.com/user-attachments/assets/23d73400-f507-4da4-8303-b2c562b1ad6a" />
+⠀
+25:
 <img width="3177" height="2425" alt="Glassy Burgundy v25 preview" src="https://github.com/user-attachments/assets/85480dfe-c63f-400b-a815-8e99eea02f43" />
 ⠀
 
