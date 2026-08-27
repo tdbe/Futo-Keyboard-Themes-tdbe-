@@ -78,46 +78,46 @@ on_tertiary = "#282e50e8" # inherited
 tertiary_container = "#3e4568e8" # inherited
 on_tertiary_container = "#dde1ffe8" # inherited
 
-background = "#171212" # inherited
-on_background = "#ebe0df" # inherited
+background = "#161213" # inherited
+on_background = "#eae0e1" # inherited
 
-surface = "#171212" # inherited
+surface = "#161213" # inherited
 on_surface = "#ffc6cb"
-surface_variant = "#524342" # inherited
+surface_variant = "#504445" # inherited
 on_surface_variant = "#ffc8c8"
 surface_tint = "#6f3744" # inherited
-inverse_surface = "#ebe0df" # inherited
-inverse_on_surface = "#352f2f" # inherited
+inverse_surface = "#eae0e1" # inherited
+inverse_on_surface = "#342f30" # inherited
 
 error = "#eea89c"
 on_error = "#50231c" # inherited
 error_container = "#6b3930" # inherited
 on_error_container = "#ffdad4" # inherited
 
-outline = "#988f8ecc" # inherited
+outline = "#968f90cc" # inherited
 outline_variant = "#864252"
 scrim = "#000000" # inherited
 
-surface_bright = "#3e3838" # inherited
-surface_dim = "#171212" # inherited
-surface_container = "#241e1e" # inherited
-surface_container_high = "#2f2828" # inherited
-surface_container_highest = "#3a3333" # inherited
-surface_container_low = "#201a1a" # inherited
-surface_container_lowest = "#120d0d" # inherited
+surface_bright = "#3d3839" # inherited
+surface_dim = "#161213" # inherited
+surface_container = "#231e1f" # inherited
+surface_container_high = "#2e2829" # inherited
+surface_container_highest = "#393334" # inherited
+surface_container_low = "#1f1a1b" # inherited
+surface_container_lowest = "#110d0e" # inherited
 
-keyboard_surface = "#453f3f"
-keyboard_surface_dim = "#120d0d" # inherited
+keyboard_surface = "#423d3d"
+keyboard_surface_dim = "#110d0e" # inherited
 keyboard_container = "#55323a"
 keyboard_container_variant = "#48272f" # inherited
 on_keyboard_container = "#ffdee3"
 keyboard_press = "#5a323bf8"
-keyboard_container_pressed = "#988f8e54" # inherited
-on_keyboard_container_pressed = "#988f8e00" # inherited
+keyboard_container_pressed = "#968f9054" # inherited
+on_keyboard_container_pressed = "#968f9000" # inherited
 
 [options.background]
 image = "Futo Keyboard Background 07 - blurred.jpg"
-opacity = 0.75
+opacity = 0.8
 action_bar_opacity = 0.45
 cropping = [0, 0, 1, 1]
 
@@ -251,8 +251,8 @@ target_density = 640
 
 [[asset.border]]
 name = "white key round.png"
-background_tint = "#ffe9edd3"
-foreground_tint = "#210006"
+background_tint = "#f8e2e5d3"
+foreground_tint = "#351017"
 padding = [0, 0.025, 0.025, 0]
 slicing = [0.495, 0.495, 0.505, 0.505]
 gap = [1, 0.5, 1, 0.5]
